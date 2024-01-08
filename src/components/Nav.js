@@ -4,9 +4,9 @@ const Nav = ()=>{
 
     return(
          <div>
-        <a href="http://localhost:3000/">Home</a>
+        <a href="/">Home</a>
         <hr/>
-        <a href="http://localhost:3000/About">About</a>
+        <a href="/About">About</a>
 
          </div>
 
